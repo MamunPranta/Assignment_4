@@ -23,7 +23,7 @@ format:
     code-overflow: wrap
 prefer-html: true
 execute:
-  eval: false
+  eval: true
   echo: true
 editor: 
   markdown: 
